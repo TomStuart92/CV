@@ -36,7 +36,7 @@ A link to some on-line evidence (blogs, videos, articles, etc.)
 #### [See my portfolio page for a full listing.](http://TomStuart92.github.io/portfolio/)
 
 | Project        | Summary           | Technologies  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | [Bowling](https://tomstuart92.github.io/portfolio/Bowling/) | Bowling Game built in Javascript | Javascript, Jasmine, jQuery |
 | [Chitter](https://tomstuart92.github.io/portfolio/PrestoPronto/) | Twitter Clone Built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, Bootstrap-CSS, CSS
 | [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/RPSLS/)    | Rock Paper Scissors Game built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, CSS |
