@@ -5,7 +5,7 @@ I once thought it was a good idea to travel from Sydney to London without flying
 
 I'm looking for a Full Stack Junior Developer role where I can continue to learn everyday, within an fast paced organization that takes pride in its work and will challenge me to be my best.
 
- [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](#Profile) | [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+ [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Profile
 
