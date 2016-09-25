@@ -3,9 +3,9 @@
 
 I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
 
-I'm looking for a Full Stack Junior Developer role where I can continue to learn everyday, within an fast paced organization that takes pride in its work and will challenge me to be my best. 
+I'm looking for a Full Stack Junior Developer role where I can continue to learn everyday, within an fast paced organization that takes pride in its work and will challenge me to be my best.
 
- [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](https://github.com/TomStuart92/CV#Profile) | [Skills](https://github.com/TomStuart92/CV#Skills) | [Projects](https://github.com/TomStuart92/CV#Projects) | [Education](https://github.com/TomStuart92/CV#Education) | [Experience](https://github.com/TomStuart92/CV#Experience) | [Interests](https://github.com/TomStuart92/CV#Interests)
+ [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](https://github.com/TomStuart92/CV/blob/master/README.md#Profile) | [Skills](https://github.com/TomStuart92/CV/blob/master/README.md#Skills) | [Projects](https://github.com/TomStuart92/CV/blob/master/README.md#Projects) | [Education](https://github.com/TomStuart92/CV/blob/master/README.md#Education) | [Experience](https://github.com/TomStuart92/CV/blob/master/README.md#Experience) | [Interests](https://github.com/TomStuart92/CV/blob/master/README.md#Interests)
 
 ## Profile
 
