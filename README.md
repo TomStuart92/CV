@@ -1,4 +1,4 @@
-## Tom Stuart
+# Tom Stuart
 ### Currently Searching for my First Job as a Junior Developer
 
 I'm looking for a Full Stack Junior Developer role within an fast paced organization that takes pride in its work and will challenge me to be my best.
@@ -7,9 +7,9 @@ I'm looking for a Full Stack Junior Developer role within an fast paced organiza
 
 ## Profile
 
-I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
+**The short version** - I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
 
-I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
+**The long version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
 Since August 2016, I have been studying at Makers Academy, learning a whole host of new languages, methodologies and best practices. Having just graduated, I'm now looking to continue my journey with my first junior developer job.
 
@@ -41,7 +41,7 @@ I also managed to travel across the globe without speaking any other language ex
 
 During my time at the Kessler Group, I not only undertook analysis, but also became client-facing. I have experience delivering technical content to C-level executives at some of Australia's largest companies, as well as managing relationships at an everyday level.
 
-I also managed a private wine-cellar for two years. Apart from being an opportunity to drink ridiculously good wine on someone else behalf, gave me an insight into how business work, and the skills that are needed to manage multiple external stakeholders, while keeping customers happy. 
+I also managed a private wine-cellar for two years. Apart from being an opportunity to drink ridiculously good wine on someone else behalf, gave me an insight into how business work, and the skills that are needed to manage multiple external stakeholders, while keeping customers happy.
 
 ## Projects
 
@@ -87,6 +87,7 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 #### Parliamentary Researcher at The Houses of Parliament, UK
 (Feb 2016 to June 2016)  
 - Researcher working across the EU referendum period, responsible for providing policy briefs, conducting real-time analysis and writing speeches.
+- If you had a personal stake in the outcome of the referendum, I was working on the remain campaign and will take the blame for its inadequacies if you wish.
 
 #### Consultant Data Analyst at The Kessler Group, Australia   
 (May 2014 to September 2015)  
