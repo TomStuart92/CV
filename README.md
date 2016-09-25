@@ -9,9 +9,9 @@ I'm looking for a Full Stack Junior Developer role within an fast paced organiza
 
 **The short version** - I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
 
-**The long version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
+**The slightly less short version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
-Since August 2016, I have been studying at Makers Academy, learning a whole host of new languages, methodologies and best practices. Having just graduated, I'm now looking to continue my journey with my first junior developer job.
+Since August 2016, I have been studying at Makers Academy, learning a whole host of new languages, methodologies and best practices. Having just graduated, I'm now looking to continue my coding journey with my first junior developer job.
 
 ## Skills
 
@@ -97,4 +97,4 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 
 ## Interests
 
-Mountaineering, Travel, Basketball, Theatre, Scotch/Wine and Bad Puns.
+Mountaineering, Adventuring, Basketball, Theatre, Good Scotch/Wine and Bad Puns.
