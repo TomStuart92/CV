@@ -1,14 +1,15 @@
 ## Tom Stuart
 ### Currently Searching for my First Job as a Junior Developer
 
-I once thought it was a good idea to travel from Sydney to London without flying. As it turns out its actually a really long way.
+I once thought it was a good idea to travel from Sydney to London without flying. As it turns out its a really long way.
 
 
 
 
 
 
- [Personal Blog](http://TomStuart92.github.io) | [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](https://github.com/TomStuart92/CV#Profile) | [Skills](https://github.com/TomStuart92/CV#Skills) | [Projects](https://github.com/TomStuart92/CV#Projects) | [Education](https://github.com/TomStuart92/CV#Education) | [Experience](https://github.com/TomStuart92/CV#Experience) | [Interests](https://github.com/TomStuart92/CV#Interests)
+
+ [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](https://github.com/TomStuart92/CV#Profile) | [Skills](https://github.com/TomStuart92/CV#Skills) | [Projects](https://github.com/TomStuart92/CV#Projects) | [Education](https://github.com/TomStuart92/CV#Education) | [Experience](https://github.com/TomStuart92/CV#Experience) | [Interests](https://github.com/TomStuart92/CV#Interests)
 
 
 ## Skills
@@ -30,17 +31,26 @@ I contributed to the growth of X while doing Y (job, or otherwise)
 I built this, made this, broke this, fixed this, etc.
 A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Projects
+
+#### [See my portfolio page for a full listing.](http://TomStuart92.github.io/portfolio/)
+
+| Project        | Summary           | Technologies  |
+| ------------- |:-------------:| -----:|
+| [Bowling](https://tomstuart92.github.io/portfolio/Bowling/) | Bowling Game built in Javascript | Javascript, Jasmine, jQuery |
+| [Chitter](https://tomstuart92.github.io/portfolio/PrestoPronto/) | Twitter Clone Built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, Bootstrap-CSS, CSS
+| [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/RPSLS/)    | Rock Paper Scissors Game built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, CSS |
+
 
 ## Education
 
 ### Makers Academy (Aug 2016 to Nov 2016)
 
-Curiosity and hungry passion for code
-Independent learner and problem-solver
-OOP, TDD, SOLID, MVC, DDD
-Software Craftsmanship
-Ruby, Rails, Javascript, Node.js, Angular.js
-Rspec, Jasmine, Mocha
+- Number One Software Developer Bootcamp in Europe
+- 16 week program / 10% acceptance rate
+- Focus on OOP, TDD, SOLID and MVC principles
+- Software Craftsmanship
+- Covered Ruby, Rails, Javascript, Node.js, Angular.js, Rspec, Jasmine, Mocha.
 
 ### St Pauls College, The University of Sydney (2011 to 2013)
 
