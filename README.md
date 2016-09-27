@@ -1,5 +1,4 @@
 # Tom Stuart
-### Currently Searching for my First Job as a Junior Developer
 
 I'm looking for a Full Stack Junior Developer role within an fast paced organization that takes pride in its work and will challenge me to be my best.
 
@@ -17,29 +16,29 @@ Since August 2016, I have been studying at Makers Academy, learning a whole host
 
 ### I am quick to learn
 
-I have the ability to quickly pick up a skill or technique and apply it to new situations. Early on in my previous job at the Kessler Group, I was presented with the chance to own a project for an existing client using one of there largest data sets. This data set was several million records big, and was far too large to manage with any existing tool I had used previously.
+Early on in my previous job at the Kessler Group, I was presented with the chance to own a project for an existing client using one of there largest data sets. This data set was several million records big, and was far too large to manage with any existing tool I had used previously.
 
 Within four days I had brought myself up to a working knowledge of [Base SAS](http://www.sas.com/en_us/software/base-sas.html), and built a working analysis pipeline. Within a fortnight the final analysis was completed and presented back to the client with a series of upstream recommendations.  
 
 ### I have excellent analytical and logical reasoning
 
-My logic and analytical skills have been honed over many years of use. These are most clearly seen from my university degree in physics in which I received the equivalent of first class honors.
+My logic and analytical skills have been honed over many years of use. These are most clearly seen from my university degree in physics in which I received the equivalent of first class honours.
 
-I maintained a distinction average [75+] across all core units over the three years, but also received very strong results in non core units including US Foreign Policy, Non-Linear Mathematics, as well as Number Theory and Cryptology.
+I maintained a distinction average [75+] across all core units, as well as strong results in other units including Non-Linear Mathematics, Number Theory and Cryptology.
 
-I built upon these skills during my time at the Kessler Group, especially in terms of systems. My experience working with clients with multiple legacy systems and complicated data pipelines helped me develop the ability to see how systems with many moving parts can fit together.
+I built upon these skills during my time at the Kessler Group. My experience working for clients with multiple legacy systems and complicated data pipelines helped me develop the ability to see how systems with many moving parts fit together.
 
 ### I have strong verbal and non-verbal communication skills
 
 My verbal and non-verbal communication skills are something I have worked hard to improve. While I worked at the Houses of Parliament, I had the opportunity to work directly for a Member of Parliament on the EU referendum campaign.
 
-I was responsible for writing briefing packs, which needed to distill complex technical concepts into material that could be digested in a short time frame. I was also responsible for writing speeches which were used both in public and within the chamber of the House of Commons.
+I was responsible for writing briefing packs, which needed to distill complex technical concepts into digestible notes. I was also responsible for writing speeches which were used both in public and within the chamber of the House of Commons.
 
 I also managed to travel across the globe without speaking any other language except english which says a lot for my non-verbal communication skills, especially my ability to point at things.
 
 ### I have experience dealing with clients and external stakeholders
 
-During my time at the Kessler Group, I not only undertook analysis, but also became client-facing. I have experience delivering technical content to C-level executives at some of Australia's largest companies, as well as managing relationships at an everyday level.
+During my time at the Kessler Group, I not only undertook analysis, but was also involved in the client-facing side of the business. I have experience delivering technical content to C-level executives at some of Australia's largest companies, as well as managing relationships at an everyday level.
 
 I also managed a private wine-cellar for two years. Apart from being an opportunity to drink ridiculously good wine on someone else behalf, gave me an insight into how business work, and the skills that are needed to manage multiple external stakeholders, while keeping customers happy.
 
