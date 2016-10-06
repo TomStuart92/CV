@@ -1,6 +1,6 @@
 # Tom Stuart
 
-I'm looking for a Full Stack Junior Developer role within an fast paced organization that takes pride in its work and will challenge me to be my best.
+I'm looking for a Full Stack Junior Developer role within a fast paced organization that takes pride in its work and will challenge me to be my best.
 
  [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
@@ -83,8 +83,14 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 
 ## Experience
 
+#### Mentor at Codebar, UK
+(Oct 2016 to Present)  
+
+- Software Mentor at a weekly meetup with the aim to help underrepresented groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+
 #### Parliamentary Researcher at The Houses of Parliament, UK
 (Feb 2016 to June 2016)  
+
 - Researcher working across the EU referendum period, responsible for providing policy briefs, conducting real-time analysis and writing speeches.
 - If you had a personal stake in the outcome of the referendum, I was working on the remain campaign and will take the blame for its inadequacies if you wish.
 
