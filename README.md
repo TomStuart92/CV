@@ -1,6 +1,6 @@
 # Tom Stuart
 
-I'm looking for a Full Stack Junior Developer role within an fast paced organization that takes pride in its work and will challenge me to be my best.
+I'm looking for a Full Stack Junior Developer role within a fast paced organisation that  will challenge me to be my best.
 
  [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
@@ -8,7 +8,7 @@ I'm looking for a Full Stack Junior Developer role within an fast paced organiza
 
 **The short version** - I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
 
-**The slightly less short version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
+**The slightly less short version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I've studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
 Since August 2016, I have been studying at Makers Academy, learning a whole host of new languages, methodologies and best practices. Having just graduated, I'm now looking to continue my coding journey with my first junior developer job.
 
@@ -18,7 +18,7 @@ Since August 2016, I have been studying at Makers Academy, learning a whole host
 
 Early on in my previous job at the Kessler Group, I was presented with the chance to own a project for an existing client using one of there largest data sets. This data set was several million records big, and was far too large to manage with any existing tool I had used previously.
 
-Within four days I had brought myself up to a working knowledge of [Base SAS](http://www.sas.com/en_us/software/base-sas.html), and built a working analysis pipeline. Within a fortnight the final analysis was completed and presented back to the client with a series of upstream recommendations.  
+Within four days I had taught myself enough [Base SAS](http://www.sas.com/en_us/software/base-sas.html) to build a working analysis pipeline. Within a fortnight the final analysis was completed and presented back to the client with a series of upstream recommendations.  
 
 ### I have excellent analytical and logical reasoning
 
@@ -48,8 +48,8 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 
 | Project        | Summary           | Technologies  |
 | ------------- |-------------| -----|
-| [Bowling](https://tomstuart92.github.io/portfolio/Bowling/) | Bowling Game built in Javascript | Javascript, Jasmine, jQuery |
-| [Chitter](https://tomstuart92.github.io/portfolio/PrestoPronto/) | Twitter Clone Built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, Bootstrap-CSS, CSS
+| [Attendr](https://tomstuart92.github.io/portfolio/Attendr/) | iOS Application supported by Node Backend | Swift, Node, Firebase |
+| [Pinged](https://tomstuart92.github.io/portfolio/Pinged/) | Gmail Clone Built in React | React, Firebase |
 | [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/RPSLS/)    | Rock Paper Scissors Game built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, CSS |
 
 
@@ -67,7 +67,7 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 - B.Sc. in Advanced Physics - Equivalent First Class.  
 - Mixture of theoretical, computational and experimental physics.   
 - Other units taken from the Faculty of Maths including introduction to cryptology.  
-- Retained a place on the St Pauls College Honors List for maintaining a distinction average over my final year.
+- Retained a place on the St Pauls College Honours List for maintaining a distinction average over my final year.
 
 
 ### SCECGS Redlands, Sydney (2006 to 2009)
@@ -91,7 +91,7 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 #### Consultant Data Analyst at The Kessler Group, Australia   
 (May 2014 to September 2015)  
 
-- Responsible for carrying out a range of analysis including regression modeling including multivariate analysis, decision trees, cluster analysis as well as financial forecasting and demographic profiling.
+- Responsible for carrying out a range of analysis including regression modelling including multivariate analysis, decision trees, cluster analysis as well as financial forecasting and demographic profiling.
 - Role included heavy use of SQL and SAS, as well as exposure to R and Python.
 
 ## Interests
