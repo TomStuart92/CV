@@ -1,16 +1,18 @@
 # Tom Stuart
 
-I'm looking for a Full Stack Junior Developer role within a fast paced organisation that  will challenge me to be my best.
+I am a full stack developer with a background in data analytics and passion for solving difficult problems.
 
- [Personal Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart) | [Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+<p align="center">
+ [Technical Blog](http://TomStuart92.github.io) | [Portfolio](http://TomStuart92.github.io/portfolio/) |  [LinkedIn](http://www.linkedin.com/in/thomas-stuart) | [Twitter](http://twitter.com/ThomasCStuart)
+</p>
 
 ## Profile
 
-**The short version** - I once thought it was a good idea to travel from Sydney to London without flying. As it turns out it's a really long way.
+I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia.
 
-**The slightly less short version** - I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia. Up to this point, I've studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
+Up to this point, I've studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
-Since August 2016, I have been studying at Makers Academy, learning a whole host of new languages, methodologies and best practices. Having just graduated, I'm now looking to continue my coding journey with my first junior developer job.
+In August 2016, I decided I wanted to further develop my problem solving capabilities and enrolled at Makers Academy, to learn software craftsmanship best practice. Now I'm looking for a company that will challenge me to be my best.
 
 ## Skills
 
@@ -24,7 +26,7 @@ Within four days I had taught myself enough [Base SAS](http://www.sas.com/en_us/
 
 My logic and analytical skills have been honed over many years of use. These are most clearly seen from my university degree in physics in which I received the equivalent of first class honours.
 
-I maintained a distinction average [75+] across all core units, as well as strong results in other units including Non-Linear Mathematics, Number Theory and Cryptology.
+I maintained a distinction average [75+] across all core units, as well as strong results in other units including Non-Linear Mathematics, Statistics, Number Theory and Cryptology.
 
 I built upon these skills during my time at the Kessler Group. My experience working for clients with multiple legacy systems and complicated data pipelines helped me develop the ability to see how systems with many moving parts fit together.
 
@@ -50,7 +52,7 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 | ------------- |-------------| -----|
 | [Attendr](https://tomstuart92.github.io/portfolio/Attendr/) | iOS Application supported by Node Backend | Swift, Node, Firebase |
 | [Pinged](https://tomstuart92.github.io/portfolio/Pinged/) | Gmail Clone Built in React | React, Firebase |
-| [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/RPSLS/)    | Rock Paper Scissors Game built in the Sinatra Framework | Ruby, Sinatra, Capybara/RSpec, CSS |
+| [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/Bowling/)    | Bowling Simulator built in Javascript | Javascript, jQuery |
 
 
 ## Education
@@ -58,9 +60,9 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 ### Makers Academy (Aug 2016 to Nov 2016)
 
 - Number One Software Developer Bootcamp in Europe.
-- 16 week program / 10% acceptance rate.
+- 12 week program / 10% acceptance rate.
 - Focus on Software Craftsmanship and OOP, TDD, SOLID and MVC principles.
-- Covered tech included Ruby, Rails, Javascript, Node.js, Angular.js, Rspec, Jasmine, Mocha.
+- Covered tech included Ruby, Rails, Javascript, Node.js, Rspec, Jasmine, Mocha.
 
 ### St Pauls College, The University of Sydney (2011 to 2013)
 
