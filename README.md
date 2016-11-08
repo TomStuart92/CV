@@ -14,9 +14,9 @@ I am a full stack developer with a background in data analytics and passion for 
 
 I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia.
 
-Up to this point, I've studied Theoretical Physics, climbed a few mountains, completed the Kokoda Trek in six days, worked at a consultancy in Data Analytics and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
+I have a burning passion for solving difficult problems. This idea drives both my career and personal life. Up to this point, I've studied Theoretical Physics, spent four months in the wilds of Alaska, worked as a consultant Data Analyst and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
-In August 2016, I decided I wanted to further develop my problem solving capabilities and enrolled at Makers Academy, to learn software craftsmanship best practice. Now I'm looking for a company that will challenge me to be my best.
+In August 2016, I decided I wanted to further develop my problem solving capabilities and enrolled at Makers Academy, to learn software craftsmanship best practice.
 
 ## Skills
 
@@ -48,6 +48,26 @@ During my time at the Kessler Group, I not only undertook analysis, but was also
 
 I also managed a private wine-cellar for two years. Apart from being an opportunity to drink ridiculously good wine on someone else behalf, gave me an insight into how business work, and the skills that are needed to manage multiple external stakeholders, while keeping customers happy.
 
+
+## Experience
+
+#### Mentor at Codebar, UK
+(Oct 2016 to Present)  
+
+- Software Mentor at a weekly meetup with the aim to help underrepresented groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+
+#### Parliamentary Researcher at The Houses of Parliament, UK
+(Feb 2016 to June 2016)  
+
+- Researcher working across the EU referendum period, responsible for providing policy briefs, conducting real-time analysis and writing speeches.
+- If you had a personal stake in the outcome of the referendum, I was working on the remain campaign and will take the blame for its inadequacies if you wish.
+
+#### Consultant Data Analyst at The Kessler Group, Australia   
+(May 2014 to September 2015)  
+
+- Responsible for carrying out a range of analysis including regression modelling including multivariate analysis, decision trees, cluster analysis as well as financial forecasting and demographic profiling.
+- Role included heavy use of SQL and SAS, as well as exposure to R and Python.
+
 ## Projects
 
 #### [See my portfolio page for a full listing.](http://TomStuart92.github.io/portfolio/)
@@ -57,7 +77,6 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 | [Attendr](https://tomstuart92.github.io/portfolio/Attendr/) | iOS Application supported by Node Backend | Swift, Node, Firebase |
 | [Pinged](https://tomstuart92.github.io/portfolio/Pinged/) | Gmail Clone Built in React | React, Firebase |
 | [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/Bowling/)    | Bowling Simulator built in Javascript | Javascript, jQuery |
-
 
 ## Education
 
@@ -86,25 +105,6 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
  * Mathematics [Standard Level]
  * Latin [Standard Level]
  * English [Standard Level]
-
-## Experience
-
-#### Mentor at Codebar, UK
-(Oct 2016 to Present)  
-
-- Software Mentor at a weekly meetup with the aim to help underrepresented groups to learn programming in a safe and collaborative environment and expand their career opportunities.
-
-#### Parliamentary Researcher at The Houses of Parliament, UK
-(Feb 2016 to June 2016)  
-
-- Researcher working across the EU referendum period, responsible for providing policy briefs, conducting real-time analysis and writing speeches.
-- If you had a personal stake in the outcome of the referendum, I was working on the remain campaign and will take the blame for its inadequacies if you wish.
-
-#### Consultant Data Analyst at The Kessler Group, Australia   
-(May 2014 to September 2015)  
-
-- Responsible for carrying out a range of analysis including regression modelling including multivariate analysis, decision trees, cluster analysis as well as financial forecasting and demographic profiling.
-- Role included heavy use of SQL and SAS, as well as exposure to R and Python.
 
 ## Interests
 
