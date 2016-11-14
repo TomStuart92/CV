@@ -12,7 +12,7 @@ I am a full stack developer with a background in data analytics and passion for 
 
 ## Profile
 
-I’m a twenty-four year old Australian British Dual National who has moved back to the UK after ten years in Australia.
+I’m a twenty-four year old Australian British dual-national who has moved back to the UK after ten years in Australia.
 
 I have a burning passion for solving difficult problems. This idea drives both my career and personal life. Up to this point, I've studied Theoretical Physics, spent four months in the wilds of Alaska, worked as a consultant Data Analyst and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
