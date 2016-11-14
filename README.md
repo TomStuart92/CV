@@ -75,7 +75,7 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 | ------------- |-------------| -----|
 | [Attendr](https://tomstuart92.github.io/portfolio/Attendr/) | iOS Application supported by Node Backend | Swift, Node, Firebase |
 | [Pinged](https://tomstuart92.github.io/portfolio/Pinged/) | Gmail Clone Built in React | React, Firebase |
-| [Rock Paper Scissors](https://tomstuart92.github.io/portfolio/Bowling/)    | Bowling Simulator built in Javascript | Javascript, jQuery |
+| [Bowling Simulator](https://tomstuart92.github.io/portfolio/Bowling/)    | Bowling Simulator built in Javascript | Javascript, jQuery |
 
 ## Education
 
