@@ -12,7 +12,7 @@ I am a full stack developer with a background in data analytics and passion for 
 
 ## Profile
 
-I’m a twenty-four year old Australian/Brit who has moved back to the UK after ten years in Australia.
+I’m a twenty-four year old Australian British Dual National who has moved back to the UK after ten years in Australia.
 
 I have a burning passion for solving difficult problems. This idea drives both my career and personal life. Up to this point, I've studied Theoretical Physics, spent four months in the wilds of Alaska, worked as a consultant Data Analyst and as a researcher at the Houses of Parliament, and ran a wine cellar for two years.
 
@@ -22,15 +22,15 @@ In August 2016, I decided I wanted to further develop my problem solving capabil
 
 ### I am quick to learn
 
-Early on in my previous job at the Kessler Group, I was presented with the chance to own a project for an existing client using one of there largest data sets. This data set was several million records big, and was far too large to manage with any existing tool I had used previously.
+Early on in my previous job at the Kessler Group, I was presented with the chance to own a project for an existing client using one of their largest data sets. This data set was spread over multiple systems with many individual tables being over several million records. This made it far too large to manage with any existing tool I had used previously.
 
 Within four days I had taught myself enough [Base SAS](http://www.sas.com/en_us/software/base-sas.html) to build a working analysis pipeline. Within a fortnight the final analysis was completed and presented back to the client with a series of upstream recommendations.  
 
 ### I have excellent analytical and logical reasoning
 
-My logic and analytical skills have been honed over many years of use. These are most clearly seen from my university degree in physics in which I received the equivalent of first class honours.
+My logic and analytical skills have been honed over many years of use. These are most clearly seen from my university degree in Physics in which I received the equivalent of first class honours.
 
-I maintained a distinction average [75+] across all core units, as well as strong results in other units including Non-Linear Mathematics, Statistics, Number Theory and Cryptology.
+I maintained a distinction average [75+] across all core units, as well as strong results in other units including Non-Linear Mathematics, Partial Differential Equations, Statistics, Number Theory and Cryptology.
 
 I built upon these skills during my time at the Kessler Group. My experience working for clients with multiple legacy systems and complicated data pipelines helped me develop the ability to see how systems with many moving parts fit together.
 
@@ -44,10 +44,9 @@ I also managed to travel across the globe without speaking any other language ex
 
 ### I have experience dealing with clients and external stakeholders
 
-During my time at the Kessler Group, I not only undertook analysis, but was also involved in the client-facing side of the business. I have experience delivering technical content to C-level executives at some of Australia's largest companies, as well as managing relationships at an everyday level.
+During my time at the Kessler Group, I not only undertook analysis, but was also involved in the client-facing side of the business. I have experience delivering technical content to C-level executives at some of Australia's largest companies, as well as managing relationships on an everyday basis.
 
 I also managed a private wine-cellar for two years. Apart from being an opportunity to drink ridiculously good wine on someone else behalf, gave me an insight into how business work, and the skills that are needed to manage multiple external stakeholders, while keeping customers happy.
-
 
 ## Experience
 
@@ -94,7 +93,6 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 - Other units taken from the Faculty of Maths including introduction to cryptology.  
 - Retained a place on the St Pauls College Honours List for maintaining a distinction average over my final year.
 
-
 ### SCECGS Redlands, Sydney (2006 to 2009)
 
 - Completed the International Baccalaureate with a final score of 36/45.
@@ -108,4 +106,4 @@ I also managed a private wine-cellar for two years. Apart from being an opportun
 
 ## Interests
 
-Mountaineering, Adventuring, Basketball, Theatre, Good Scotch/Wine and Bad Puns.
+Mountaineering, Adventures, Basketball, Good Scotch/Wine and Bad Puns.
