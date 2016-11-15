@@ -4,8 +4,7 @@ I am a full stack developer with a background in data analytics and a passion fo
 
 <p align="center">
   <a href="http://TomStuart92.github.io">Technical Blog</a> |
-    <a href="http://TomStuart92.github.io/portfolio">Portfolio</a> |
-      <a href="http://www.linkedin.com/in/thomas-stuart">LinkedIn</a> |
+    <a href="http://TomStuart92.github.io/portfolio">Portfolio</a> | 
         <a href="http://twitter.com/ThomasCStuart">Twitter</a>
 
 </p>
