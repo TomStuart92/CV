@@ -22,7 +22,7 @@ In August 2016, I decided I wanted to further develop my problem solving capabil
 
 ### I am quick to learn
 
-Early on in my time at the Kessler Group, I was presented with the opportunity to own a project for an existing client using one of their largest data sets. This data set was spread over multiple systems with many individual tables being over several million records. This made it far too large to manage with any existing tool I had used previously.
+Early on in my time as a consultant Data Analyst, I was presented with the opportunity to own a project for an existing client using one of their largest data sets. This data set was spread over multiple systems with many individual tables being over several million records. This made it far too large to manage with any existing tool I had used previously.
 
 Within four days I had taught myself enough [Base SAS](http://www.sas.com/en_us/software/base-sas.html) to build a working analytics platform. Within a fortnight the final analysis was completed and presented back to the client alongside a series of upstream recommendations.  
 
